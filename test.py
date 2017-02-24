@@ -4,3 +4,6 @@ def func(i):
 def test_func():
 	print('test jenkins')
 	assert func(3)==3
+def test_func2():
+	print('test jenkins')
+	assert func(3)==4
