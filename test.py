@@ -6,7 +6,7 @@ def test_func():
 	assert func(3)==3
 def test_func2():
 	print('test jenkins')
-	assert func(6)==6
+	assert func(3)==6
 def test_func3():
 	print('test jenkins')
 	assert func(5)==5
